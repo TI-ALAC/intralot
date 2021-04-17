@@ -112,19 +112,8 @@ img {
 
 /* 768x384 */
 @media only screen and (max-width: 768px) {
-    .pozo2digitos {
-        font-size: 78pt!important;
-        font-family: 'COCOGOOSE', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        color: #EB1C24;
-        position: absolute;
-        z-index: 10;
-        left: 15%;
-        right: 2%;
-        letter-spacing: -10px;
-        top: 52%;
-    }
     .pozoUnidad {
-        font-size: 78pt!important;
+        font-size: 67pt!important;
         font-family: 'COCOGOOSE', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         color: #EB1C24;
         width: 20px;
@@ -133,33 +122,22 @@ img {
         z-index: 10;
         left: 20%;
         right: 2%;
-        top: 50%;
+        top: 52%;
     }
     #millones{
-        font-size: 58pt!important;
+        font-size: 65pt!important;
         font-family: 'COCOGOOSE', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         color: #EB1C24;
         left: 35%;
-        top: 56%;
+        top: 52%;
         position: absolute;
     }
 }
 
 /* 720x360 */
 @media only screen and (max-width: 720px) {
-    .pozo2digitos {
-        font-size: 76pt!important;
-        font-family: 'COCOGOOSE', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        color: #EB1C24;
-        position: absolute;
-        z-index: 10;
-        left: 15%;
-        right: 2%;
-        letter-spacing: -10px;
-        top: 52%;
-    }
     .pozoUnidad {
-        font-size: 76pt!important;
+        font-size: 66pt!important;
         font-family: 'COCOGOOSE', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         color: #EB1C24;
         width: 20px;
@@ -171,11 +149,11 @@ img {
         top: 50%;
     }
     #millones{
-        font-size: 56pt!important;
+        font-size: 61pt!important;
         font-family: 'COCOGOOSE', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         color: #EB1C24;
         left: 35%;
-        top: 56%;
+        top: 51%;
         position: absolute;
     }
 }
