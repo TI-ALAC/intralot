@@ -12,7 +12,7 @@ async function init() {
     content.style.display = "none";
     content2.style.display = "block";
     content3.style.display = "none";
-  }, 5500);
+  }, 5000);
 }
 
 init();
